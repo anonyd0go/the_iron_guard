@@ -1,2 +1,2 @@
 # The Iron Guard
-This repository is a password manager built in Rust.  At the moment it is made to be a command-line tool and can only store passwords in a JSON file.  I will be working on improving these things later.
+This repository is a password manager built in Rust.  At the moment it is made to be a command-line tool and can only store passwords in a JSON file.  I will be working on improving these things later.  The main focus at the moment is storring the encrypted password following OWASP best practices.
